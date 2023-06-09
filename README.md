@@ -1,1 +1,1 @@
-#This is the github repo of project 7 team 9
+#This is the github repo of team 09 Project 07 Smart Reservoirs
